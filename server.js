@@ -8,7 +8,7 @@ server.use('/api/projects', projectsRouter)
 
 
 server.get('/', (req, res) => {
-    res.send('welcome to projects api!')
+    res.send('SPRINT THERE WE GO!!')
 })
 
 module.exports = server;
